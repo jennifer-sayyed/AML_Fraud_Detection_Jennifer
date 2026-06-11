@@ -1,0 +1,17 @@
+[
+  {
+    "query": "Analyze transaction amount 250000 from Russia"
+  },
+  {
+    "query": "Generate SAR"
+  },
+  {
+    "query": "Check sanctions for Vladimir Putin"
+  },
+  {
+    "query": "What is AML?"
+  },
+  {
+    "query": "Explain KYC"
+  }
+]
